@@ -4,12 +4,12 @@ export default function Home() {
   const message = process.env["MESSAGE"] || "Hello!";
   return (
     <main className="content">
-      <h1 className="heading">Next.js on Firebase App Hosting</h1>
+      <h1 className="heading">Firebase App Hosting is the way to go Matt</h1>
       <p>{message}</p>
 
       <section className="features">
         <article className="card">
-          <h2>Scalable, serverless backends</h2>
+          <h2>This is the way we should host nEXus</h2>
           <p>
             Dynamic content is served by{" "}
             <Link
@@ -32,7 +32,7 @@ export default function Home() {
           </p>
         </article>
         <article className="card">
-          <h2>Global CDN</h2>
+          <h2>You know it's right</h2>
           <p>
             Cached content is served by{" "}
             <Link
