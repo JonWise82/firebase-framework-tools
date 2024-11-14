@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Next.js on Firebase App Hosting",
   description: "",
 };
-//test2
+//test3
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
